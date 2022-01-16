@@ -1,3 +1,7 @@
+GO to live : https://ionutzncr.github.io/odin-recipes/
+
+
+
 In this lesson I learned and trained how to use images and links. 
 I mainly used absolutes links because I was lazy to download and put the images in a file and then use a relative link . 
 I also used unordered and ordered list . Heading and paragraphs to add content to my pages. 
