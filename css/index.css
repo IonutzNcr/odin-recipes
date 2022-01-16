@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+.title.color{
+    background-color: rgba(124,55,154,0.2);
+    color: white;
+    font-size: 40px;
+}
+
+.color{
+    background-color: rgba(197, 31, 31,0.5);
+    color:aqua;
+}
+
+.sous-title{
+    font-size:20px;
+}
+
+.list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    color:rgb(15, 15, 206);
+    text-align: center;
+}
+
+.text{
+    color: rgb(214, 148, 159);
+    background: rgba(228, 184, 228,0.1);
+}
+
+#pasta, #pizza, #lasagna{
+    width: 500px;
+    height:auto;
+}
+#pasta{
+    opacity: 0.5;
+}
